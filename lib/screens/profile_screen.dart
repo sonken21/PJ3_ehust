@@ -30,7 +30,7 @@ class ProfileScreen extends StatelessWidget {
           ),
           ListTile(
             title: Text('Email', textAlign: TextAlign.start),
-            subtitle: Text('sonnb194155@sis.hust', textAlign: TextAlign.start),
+            subtitle: Text('sonnb194155@sis.hust.edu.vn', textAlign: TextAlign.start),
           ),
           ListTile(
             title: Text('Mã số sinh viên', textAlign: TextAlign.start),
