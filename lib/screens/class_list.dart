@@ -39,11 +39,11 @@ class ClassListScreen extends StatelessWidget {
               child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [Text(
-                    '154052 - Phát triển đa nền tảng',
+                    '111222 - Giải tích III',
                     style: TextStyle(fontSize: 16),
                     textAlign:TextAlign.start  ,
                   ),
-                    Text('IT4788',style: TextStyle(fontSize: 16)),
+                    Text('IT1100',style: TextStyle(fontSize: 16)),
                     Text('Sáng t3, tiết 1-4, tc207',style: TextStyle(fontSize: 16)),
                   ]),
 
@@ -59,11 +59,11 @@ class ClassListScreen extends StatelessWidget {
               child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [Text(
-                    '154052 - Phát triển đa nền tảng',
+                    '111222 - Giải tích III',
                     style: TextStyle(fontSize: 16),
                     textAlign:TextAlign.start  ,
                   ),
-                    Text('IT4788',style: TextStyle(fontSize: 16)),
+                    Text('IT1100',style: TextStyle(fontSize: 16)),
                     Text('Sáng t3, tiết 1-4, tc207',style: TextStyle(fontSize: 16)),
                   ]),
 
@@ -79,11 +79,11 @@ class ClassListScreen extends StatelessWidget {
               child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [Text(
-                    '154052 - Phát triển đa nền tảng',
+                    '111222 - Giải tích III',
                     style: TextStyle(fontSize: 16),
                     textAlign:TextAlign.start  ,
                   ),
-                    Text('IT4788',style: TextStyle(fontSize: 16)),
+                    Text('IT1100',style: TextStyle(fontSize: 16)),
                     Text('Sáng t3, tiết 1-4, tc207',style: TextStyle(fontSize: 16)),
                   ]),
 
@@ -99,11 +99,11 @@ class ClassListScreen extends StatelessWidget {
               child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [Text(
-                    '154052 - Phát triển đa nền tảng',
+                    '111222 - Giải tích III',
                     style: TextStyle(fontSize: 16),
                     textAlign:TextAlign.start  ,
                   ),
-                    Text('IT4788',style: TextStyle(fontSize: 16)),
+                    Text('IT1100',style: TextStyle(fontSize: 16)),
                     Text('Sáng t3, tiết 1-4, tc207',style: TextStyle(fontSize: 16)),
                   ]),
 
@@ -119,11 +119,11 @@ class ClassListScreen extends StatelessWidget {
               child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [Text(
-                    '154052 - Phát triển đa nền tảng',
+                    '111222 - Giải tích III',
                     style: TextStyle(fontSize: 16),
                     textAlign:TextAlign.start  ,
                   ),
-                    Text('IT4788',style: TextStyle(fontSize: 16)),
+                    Text('IT1100',style: TextStyle(fontSize: 16)),
                     Text('Sáng t3, tiết 1-4, tc207',style: TextStyle(fontSize: 16)),
                   ]),
 
@@ -139,11 +139,11 @@ class ClassListScreen extends StatelessWidget {
               child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [Text(
-                    '154052 - Phát triển đa nền tảng',
+                    '111222 - Giải tích III',
                     style: TextStyle(fontSize: 16),
                     textAlign:TextAlign.start  ,
                   ),
-                    Text('IT4788',style: TextStyle(fontSize: 16)),
+                    Text('IT1100',style: TextStyle(fontSize: 16)),
                     Text('Sáng t3, tiết 1-4, tc207',style: TextStyle(fontSize: 16)),
                   ]),
 
@@ -159,11 +159,11 @@ class ClassListScreen extends StatelessWidget {
               child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [Text(
-                    '154052 - Phát triển đa nền tảng',
+                    '111222 - Giải tích III',
                     style: TextStyle(fontSize: 16),
                     textAlign:TextAlign.start  ,
                   ),
-                    Text('IT4788',style: TextStyle(fontSize: 16)),
+                    Text('IT1100',style: TextStyle(fontSize: 16)),
                     Text('Sáng t3, tiết 1-4, tc207',style: TextStyle(fontSize: 16)),
                   ]),
 
@@ -179,11 +179,11 @@ class ClassListScreen extends StatelessWidget {
               child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [Text(
-                    '154052 - Phát triển đa nền tảng',
+                    '111222 - Giải tích III',
                     style: TextStyle(fontSize: 16),
                     textAlign:TextAlign.start  ,
                   ),
-                    Text('IT4788',style: TextStyle(fontSize: 16)),
+                    Text('IT1100',style: TextStyle(fontSize: 16)),
                     Text('Sáng t3, tiết 1-4, tc207',style: TextStyle(fontSize: 16)),
                   ]),
 
@@ -199,11 +199,11 @@ class ClassListScreen extends StatelessWidget {
               child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [Text(
-                    '154052 - Phát triển đa nền tảng',
+                    '111222 - Giải tích III',
                     style: TextStyle(fontSize: 16),
                     textAlign:TextAlign.start  ,
                   ),
-                    Text('IT4788',style: TextStyle(fontSize: 16)),
+                    Text('IT1100',style: TextStyle(fontSize: 16)),
                     Text('Sáng t3, tiết 1-4, tc207',style: TextStyle(fontSize: 16)),
                   ]),
 
@@ -219,11 +219,11 @@ class ClassListScreen extends StatelessWidget {
               child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [Text(
-                    '154052 - Phát triển đa nền tảng',
+                    '111222 - Giải tích III',
                     style: TextStyle(fontSize: 16),
                     textAlign:TextAlign.start  ,
                   ),
-                    Text('IT4788',style: TextStyle(fontSize: 16)),
+                    Text('IT1100',style: TextStyle(fontSize: 16)),
                     Text('Sáng t3, tiết 1-4, tc207',style: TextStyle(fontSize: 16)),
                   ]),
 
