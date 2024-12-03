@@ -96,11 +96,11 @@ class ClassInformation extends StatelessWidget {
                 child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [Text(
-                      '154052 - Phát Triển Đa Nền Tảng',
+                      '111222 - Giải tích III',
                       style: TextStyle(fontSize: 18),
                       textAlign:TextAlign.start  ,
                     ),
-                      Text('IT4788',style: TextStyle(fontSize: 18)),
+                      Text('IT1100',style: TextStyle(fontSize: 18)),
                       Text('Sáng t3, tiết 1-4, tc207',style: TextStyle(fontSize: 18)),
                       Text('Thông tin thêm',style: TextStyle(fontSize: 18))
                     ]),
