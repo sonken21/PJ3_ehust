@@ -26,15 +26,15 @@ class ProfileScreen extends StatelessWidget {
           Divider(),
           ListTile(
             title: Text('Ten Sinh Vien', textAlign: TextAlign.start),
-            subtitle: Text('Doan Van Nam', textAlign: TextAlign.start), // Căn giữa các item trong ListTile
+            subtitle: Text('Nguyễn Bá Sơn', textAlign: TextAlign.start), // Căn giữa các item trong ListTile
           ),
           ListTile(
             title: Text('Email', textAlign: TextAlign.start),
-            subtitle: Text('doanvan@ehust.edu.vn', textAlign: TextAlign.start),
+            subtitle: Text('sonnb194155@sis.hust', textAlign: TextAlign.start),
           ),
           ListTile(
             title: Text('Mã số sinh viên', textAlign: TextAlign.start),
-            subtitle: Text('20215430', textAlign: TextAlign.start)
+            subtitle: Text('20194155', textAlign: TextAlign.start)
           ),
           ListTile(
             title: Text('Khoa/Viện', textAlign: TextAlign.start),
